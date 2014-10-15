@@ -1,4 +1,5 @@
 # Amman Nodeschool
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/nodeschool/amman?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Amman Nodeschool is hosted by [@samuraik](http://twitter.com/khalidnobani)
 

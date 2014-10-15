@@ -1,3 +1,3 @@
 # Amman Nodeschool
 
-Amman Nodeschool is hosted by [@iancrowther](http://twitter.com/iancrowther)
+Amman Nodeschool is hosted by [@iancrowther](http://twitter.com/khalidnobani)

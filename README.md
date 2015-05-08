@@ -1,7 +1,7 @@
 # Amman Nodeschool
 
 
-Amman Nodeschool is hosted by [@samuraik](http://twitter.com/khalidnobani)
+Amman Nodeschool is hosted by [@khalednobani](http://twitter.com/khaled_nobani)
 
 ## Contact
 
